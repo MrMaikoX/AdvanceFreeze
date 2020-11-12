@@ -1,0 +1,6 @@
+name: AdvanceFreeze
+version: 1.0
+author: MaikoX
+main: gg.maiko.advancefreeze.AdvanceFreeze
+description: "https://github.com/MrMaikoX/AdvanceFreeze"
+depends: qLib

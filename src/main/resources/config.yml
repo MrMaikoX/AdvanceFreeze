@@ -1,0 +1,20 @@
+lang:
+  error: "&cYou cannot freeze this staff member."
+  not-frozen: "&c%player% is not frozen and cannot be unfrozen"
+  player:
+    unfrozen: "&aYou have been unfrozen by %executor%"
+  staff:
+    admit: "&d%player% &ehas admit to cheating!"
+    frozen: "&d%player% &ehas been frozen by &4%executor%"
+    unfrozen: "&d%player% &ehas been unfrozen &6%executor%"
+
+FreezeGUI:
+  title: "&aAdvance Freeze"
+  denied-title: "&aJoin Teamspeak"
+  # Find the material list here
+  # -> https://github.com/Bukkit/Bukkit/blob/master/src/main/java/org/bukkit/Material.java
+  material: "BOOK"
+  # Name/Title of the book
+  name: "ts.server.com"
+  # This determines where the material will go.
+  slot: 4
